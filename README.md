@@ -20,7 +20,7 @@ layout:
 
 # Xin chào
 
-Chúng tôi tự hào giới thiệu trang tài liệu lập trình **bằng tiếng Việt** của **None Group** trên nền tảng [GitBook](https://www.gitbook.com/). Tại đây, bạn sẽ tìm thấy một kho tài liệu phong phú và chi tiết, tập trung vào các ngôn ngữ lập trình cốt lõi, giúp bạn xây dựng nền tảng vững chắc và mở rộng kiến thức lập trình chuyên sâu.
+Chúng tôi tự hào giới thiệu trang tài liệu lập trình **bằng tiếng Việt** của **None Group** trên nền tảng \`\`\`[**GitBook**](https://www.gitbook.com/). Tại đây, bạn sẽ tìm thấy một kho tài liệu phong phú và chi tiết, tập trung vào các ngôn ngữ lập trình cốt lõi, giúp bạn xây dựng nền tảng vững chắc và mở rộng kiến thức lập trình chuyên sâu.
 
 ### Nội dung hiện tại
 
