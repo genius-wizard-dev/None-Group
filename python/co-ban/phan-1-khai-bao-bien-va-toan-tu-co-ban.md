@@ -46,42 +46,42 @@ Python sẽ vẫn chạy đoạn mã trên mà không báo lỗi chỉ khi bạn
 
 Python hỗ trợ nhiều kiểu dữ liệu khác nhau:
 
-*   **Số nguyên (int)**: Số nguyên không có phần thập phân. Ví dụ:
+*   **Số nguyên (int)**: Số nguyên không có phần thập phân
 
     ```python
     a = 5
     ```
-*   **Số thực (float)**: Số có phần thập phân. Ví dụ:
+*   **Số thực (float)**: Số có phần thập phân
 
     ```python
     b = 5.5
     ```
-*   **Chuỗi (str)**: Dãy ký tự. Ví dụ:
+*   **Chuỗi (str)**: Dãy ký tự
 
     ```python
     name = "Alice"
     ```
-*   **Giá trị đúng/sai (bool)**: Giá trị đúng (`True`) hoặc sai (`False`). Ví dụ:
+*   **Giá trị đúng/sai (bool)**: Giá trị đúng (`True`) hoặc sai (`False`)
 
     ```python
     is_valid = True
     ```
-*   **Danh sách (list)**: Danh sách các giá trị có thể thay đổi. Ví dụ:
+*   **Danh sách (list)**: Danh sách các giá trị có thể thay đổi
 
     ```python
     numbers = [1, 2, 3]
     ```
-*   **Tuple**: Giống danh sách nhưng không thể thay đổi. Ví dụ:
+*   **Tuple**: Giống danh sách nhưng không thể thay đổi
 
     ```python
     coordinates = (10, 20)
     ```
-*   **Từ điển (dict)**: Bộ dữ liệu lưu trữ các cặp khóa-giá trị. Ví dụ:
+*   **Từ điển (dict)**: Bộ dữ liệu lưu trữ các cặp khóa-giá trị
 
     ```python
     student = {"name": "Alice", "age": 20}
     ```
-*   **Tập hợp (set)**: Tập hợp các giá trị duy nhất. Ví dụ:
+*   **Tập hợp (set)**: Tập hợp các giá trị duy nhất
 
     ```python
     unique_numbers = {1, 2, 3, 3}  # Kết quả: {1, 2, 3}
