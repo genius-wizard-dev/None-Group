@@ -42,8 +42,6 @@ a: int = "Hello"  # Lỗi: Giá trị không phải là số nguyên
 
 Python sẽ vẫn chạy đoạn mã trên mà không báo lỗi chỉ khi bạn sửa dụng công cụ kiểm tra dữ liệu thì lỗi mới được thông báo.
 
-Dưới đây là phần 2 của tài liệu Python cơ bản:
-
 ### 2. Các Kiểu Dữ Liệu Cơ Bản
 
 Python hỗ trợ nhiều kiểu dữ liệu khác nhau:
