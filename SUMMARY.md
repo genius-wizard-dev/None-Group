@@ -5,7 +5,8 @@
 ## Python
 
 * [Giới thiệu](python/gioi-thieu.md)
-* [Cơ bản](python/co-ban.md)
+* [Cơ bản](python/co-ban/README.md)
+  * [Phần 1: Khai Báo Biến và Toán Tử Cơ Bản](python/co-ban/phan-1-khai-bao-bien-va-toan-tu-co-ban.md)
 * [Framework](python/framework.md)
 * [Thư viện](python/thu-vien.md)
 
